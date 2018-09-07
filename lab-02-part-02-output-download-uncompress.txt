@@ -18,7 +18,7 @@ $ echo hello
 
 Copy and paste the output below.
 ----------
-
+hello
 
 
 ==========
@@ -28,8 +28,7 @@ $ echo hello there
 
 Copy and paste the output below.
 ----------
-
-
+hello there
 
 ==========
 3. Type:
@@ -38,7 +37,7 @@ $ echo good mornin'
 
 Copy and paste the output below.
 ----------
-
+>
 
 
 ==========
@@ -46,7 +45,7 @@ Copy and paste the output below.
 
 Type [CTRL + C] to get your prompt back.
 ----------
-
+ent-v314-009:~ student$ 
 
 
 ==========
@@ -56,7 +55,7 @@ $ echo "good mornin'"
 
 Copy and paste the output below.
 ----------
-
+good mornin'
 
 
 ==========
@@ -66,7 +65,7 @@ $ echo *
 
 What happens?
 ----------
-
+Adlm Adobe Applications Desktop Documents Downloads Library MPLABXProjects Movies Music New Unity Project Pictures Public QLData Things ipe.properties isus keychains lightroom pymel.log stuff xgen
 
 
 ==========
@@ -74,7 +73,7 @@ What happens?
 
 Write the command that you used below:
 ----------
-
+  
 
 
 ==========
